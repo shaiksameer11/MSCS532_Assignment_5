@@ -64,8 +64,8 @@ MSCS532_ASSIGNMENT_5/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shaiksameer11/MSCS532_Assignment_5.git
-   cd MSCS532_Assignment_5
+   git clone https://github.com/shaiksameer11/MSCS532_Assignment_6.git
+   cd MSCS532_Assignment_6
    ```
 
 2. **Install dependencies:**
